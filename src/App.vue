@@ -77,7 +77,7 @@ import AnimeDate from "./components/AnimeDate.vue";
         ]"
       />
       <AnimeDate
-        backgroundImageClass="bg-[url('https://www.monogatari-series.com/oms/assets/img/kv02.jpg\')]"
+        backgroundImageClass="bg-[url('https://www.monogatari-series.com/oms/assets/img/kv02.jpg')]"
         date="2024-07-06"
         :listItems="[
           'CARDFIGHT!! VANGUARD Divinez Season 2',
@@ -165,16 +165,18 @@ import AnimeDate from "./components/AnimeDate.vue";
         ]"
       />
       <AnimeDate
+        backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170998-kAxkcVS9I3qc.jpg')] bg-bottom"
+        date="2024-07-24"
+        :listItems="[
+          'Red Cat Ramen',
+        ]"
+      />
+      <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167991-uOu8ggPXzVUQ.jpg')] bg-bottom"
         date="2024-08-07"
         :listItems="[
           'Delico\'s Nursery',
         ]"
-      />
-      <AnimeDate
-        backgroundImageClass="bg-[url('assets/empty.png')]"
-        date=""
-        :listItems="[]"
       />
       <AnimeDate
         backgroundImageClass="bg-[url('assets/empty.png')]"
