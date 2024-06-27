@@ -11,7 +11,7 @@
         <p class="font-bold stroke-black text-base text-cyan-400 -mb-1">
           {{ calculatedDay }}
         </p>
-        <p class="text-3xl font-bold">{{ date }}</p>
+        <p class="text-3xl font-bold">{{ formattedDate }}</p>
       </div>
       <div
         class="from-transparent from-30% to-black bg-gradient-to-b w-full h-full absolute"
@@ -50,14 +50,21 @@ export default {
   },
   computed: {
     calculatedDay() {
-        if(this.date === ""){
-            return "";
-        }
-      let date = new Date(this.date);
-      date.setDate(date.getDate() + 1)
-
+      if (this.date === "") {
+        return "";
+      }
+      let parsedDate: Date = new Date(this.date);
       const options: Intl.DateTimeFormatOptions = { weekday: "long" };
-      return new Intl.DateTimeFormat("en-GB", options).format(date);
+      return new Intl.DateTimeFormat("en-US", options).format(parsedDate);
+    },
+    formattedDate() {
+      if (this.date === "") {
+        return "";
+      }
+      let parsedDate: Date = new Date(this.date);
+      const options: Intl.DateTimeFormatOptions = { month: "short", day: "numeric" };
+      let formatted: string = new Intl.DateTimeFormat("en-US", options).format(parsedDate);
+      return formatted.toUpperCase().replace(" ", " ");
     },
     containerWidthClass() {
       return this.listItems.length > this.splitAt ? "w-[26rem]" : "w-48";

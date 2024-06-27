@@ -13,24 +13,24 @@ import AnimeDate from "./components/AnimeDate.vue";
     <div class="flex-wrap flex">
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173584-nyZElmr8218W.jpg')]"
-        date="JUN 26"
+        date="2024-06-26"
         :listItems="[
           'The Strongest Magician in the Demon Lord\'s Army was a Human',
         ]"
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/banner/166710-pr7H0NvG6QHN.jpg')]"
-        date="JUN 27"
+        date="2024-06-27"
         :listItems="['Suicide Squad ISEKAI']"
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175450-Wfjd6OqFOn2h.jpg')]"
-        date="JUN 29"
+        date="2024-06-29"
         :listItems="['My Wife Has No Emotion']"
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163292-1DkPP4r5UI9Y.jpg')]"
-        date="JUL 1"
+        date="2024-07-01"
         :listItems="[
           'SHY Season 2',
           'The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible',
@@ -38,12 +38,12 @@ import AnimeDate from "./components/AnimeDate.vue";
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174070-mrec0spMuATz.jpg')] bg-top"
-        date="JUL 2"
+        date="2024-07-02"
         :listItems="['TASUKETSU -Fate of the Majority-']"
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg')] bg-top"
-        date="JUL 3"
+        date="2024-07-03"
         :listItems="[
           'Oshi no Ko Season 2',
           'Alya Sometimes Hides Her Feelings in Russian',
@@ -52,8 +52,7 @@ import AnimeDate from "./components/AnimeDate.vue";
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/banner/152681-AnePIUjElyvG.jpg')] bg-left"
-      
-        date="JUL 4"
+        date="2024-07-04"
         :listItems="[
           'Days with My Stepsister',
           'Red Cat Ramen',
@@ -67,7 +66,7 @@ import AnimeDate from "./components/AnimeDate.vue";
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163077-PHiTdVlKzXAR.jpg')] bg-top"
-        date="JUL 5"
+        date="2024-07-05"
         :splitAt=5
         :listItems="[
           '2.5 Dimensional Seduction',
@@ -79,7 +78,7 @@ import AnimeDate from "./components/AnimeDate.vue";
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/banner/173295-NjdUsndhRo53.jpg')]"
-        date="JUL 6"
+        date="2024-07-06"
         :listItems="[
           'CARDFIGHT!! VANGUARD Divinez Season 2',
           'Dahlia in Bloom: Crafting a Fresh Start with Magical Tools',
@@ -97,7 +96,7 @@ import AnimeDate from "./components/AnimeDate.vue";
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/banner/175977-sfXIexEc0Jjx.jpg')]"
-        date="JUL 7"
+        date="2024-07-07"
         :splitAt=5
         :listItems="[
           'My Deer Friend Nokotan<sup>1</sup>',
@@ -112,14 +111,14 @@ import AnimeDate from "./components/AnimeDate.vue";
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174044-HBvsyKjDVPyO.jpg')] bg-top"
-        date="JUL 8"
+        date="2024-07-08"
         :listItems="[
           'MAYONAKA PUNCH'
         ]"
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152137-DOCIkAiaWALu.jpg')] bg-bottom"
-        date="JUL 9"
+        date="2024-07-09"
         :listItems="[
           'The Magical Girl and the Evil Lieutenant Used to Be Archenemies',
           'No Longer Allowed In Another World',
@@ -127,7 +126,7 @@ import AnimeDate from "./components/AnimeDate.vue";
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167144-tKDxH7M9z1Hb.png')]"
-        date="JUL 10"
+        date="2024-07-10"
         :listItems="[
           'Our Last Crusade or the Rise of a New World Season 2',
           'Love Is Indivisible by Twins',
@@ -135,14 +134,14 @@ import AnimeDate from "./components/AnimeDate.vue";
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157371-K122OMMSKhXK.jpg')] bg-top"
-        date="JUL 12"
+        date="2024-07-12"
         :listItems="[
           'Bye Bye, Earth'
         ]"
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154963-Ju6Ey3P5YHs2.jpg')]"
-        date="JUL 13"
+        date="2024-07-13"
         :listItems="[
           'Why Does Nobody Remember Me in This World?',
           'ATRI -My Dear Moments-',
@@ -151,7 +150,7 @@ import AnimeDate from "./components/AnimeDate.vue";
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162796-CFwUdsPSLpzv.jpg')] bg-bottom"
-        date="JUL 14"
+        date="2024-07-14"
         :listItems="[
           'Kinnikuman: Perfect Origin Arc',
           'Theatre of Darkness: Yamishibai 13',
@@ -159,14 +158,14 @@ import AnimeDate from "./components/AnimeDate.vue";
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176660-4sDfmx2fOZRJ.jpg')] bg-bottom"
-        date="JUL 17"
+        date="2024-07-17"
         :listItems="[
           'Sengoku Youko: The Chaos of a Thousand Demons Arc',
         ]"
       />
       <AnimeDate
         backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167991-uOu8ggPXzVUQ.jpg')] bg-bottom"
-        date="AUG 7"
+        date="2024-08-07"
         :listItems="[
           'Delico\'s Nursery',
         ]"
