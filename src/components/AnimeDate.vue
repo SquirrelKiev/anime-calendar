@@ -17,7 +17,7 @@
         class="from-transparent from-30% to-black bg-gradient-to-b w-full h-full absolute"
       ></div>
     </div>
-    <div class="flex">
+    <div class="flex mt-2">
       <ul class="list-disc font-inter font-medium" :class="{'w-1/2': secondList.length > 0}">
         <li class="marker:text-cyan-400" v-for="(item, index) in firstList" :key="index" v-html="item"></li>
       </ul>

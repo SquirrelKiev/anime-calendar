@@ -77,12 +77,13 @@ import AnimeDate from "./components/AnimeDate.vue";
         ]"
       />
       <AnimeDate
-        backgroundImageClass="bg-[url('https://s4.anilist.co/file/anilistcdn/media/anime/banner/173295-NjdUsndhRo53.jpg')]"
+        backgroundImageClass="bg-[url('https://www.monogatari-series.com/oms/assets/img/kv02.jpg\')]"
         date="2024-07-06"
         :listItems="[
           'CARDFIGHT!! VANGUARD Divinez Season 2',
           'Dahlia in Bloom: Crafting a Fresh Start with Magical Tools',
           'A Nobody\'s Way Up to an Exploration Hero',
+          'MONOGATARI Series: OFF & MONSTER Season',
           'Sakuna: Of Rice and Ruin',
           'The Elusive Samurai',
           'Plus-Sized Elf',
