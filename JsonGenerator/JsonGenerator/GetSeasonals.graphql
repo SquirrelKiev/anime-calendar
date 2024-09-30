@@ -1,0 +1,33 @@
+﻿query GetSeasonals($page: Int) {
+  Page(page: $page) {
+    pageInfo {
+      hasNextPage
+    }
+    media(
+      season: FALL,
+      seasonYear: 2024,
+      sort: START_DATE,
+      type: ANIME,
+      isAdult: false,
+      format_in: [TV, OVA, ONA]
+    ) {
+      title {
+        english
+        romaji
+      }
+      startDate {
+        day
+        month
+        year
+      }
+      bannerImage
+      coverImage {
+        extraLarge
+      }
+      popularity
+      nextAiringEpisode {
+        airingAt
+      }
+    }
+  }
+}
