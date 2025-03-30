@@ -9,7 +9,7 @@ import AnimeDate from "./AnimeDate.vue";
       :background-image="item.BannerUrl"
       :background-position="item.BannerPosition"
       :date="item.StartDate"
-      :split-at="item.SplitAt === undefined ? splitAt : item.SplitAt"
+      :split-at="item.SplitAt === undefined ? Math.max(item.Entries.length / 2, 4) : item.SplitAt"
       :list-items="item.Entries"
     />
   </div>
@@ -18,7 +18,8 @@ import AnimeDate from "./AnimeDate.vue";
 <script lang="ts">
 import schedule from "../schedule.json";
 import emptyPng from "../assets/empty.png";
-const splitAt = 4;
+
+const columnsPerRow = 6;
 
 export default {
   computed: {
@@ -40,27 +41,26 @@ export default {
       };
 
       for (const item of Object.values(schedule.Entries)) {
-        const span = item.Entries.length > splitAt ? 2 : 1; // Determine if it spans 1 or 2 columns
+        const span = item.Entries.length > 4 ? 2 : 1;
 
-        // If adding this item exceeds the row, fill the row with empty spaces
-        if (rowColumns + span > 6) {
-          for (let i = rowColumns; i < 6; i++) {
-            result.push(empty); // Empty space filler
+        if (rowColumns + span > columnsPerRow) {
+          for (let i = rowColumns; i < columnsPerRow; i++) {
+            result.push(empty);
           }
-          rowColumns = 0; // Reset column count for the new row
+          rowColumns = 0;
         }
 
         result.push(item);
         rowColumns += span;
       }
 
-      // If there are any remaining columns in the last row, fill them with empty spaces
-      for (let i = rowColumns; i < 6; i++) {
+      for (let i = rowColumns; i < columnsPerRow; i++) {
         result.push(empty);
       }
 
       return result;
     },
+    
   },
 };
 </script>

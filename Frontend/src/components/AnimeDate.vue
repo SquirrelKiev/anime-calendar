@@ -108,7 +108,7 @@ export default {
       };
 
       const normalizedPosition = this.backgroundPosition.toLowerCase().trim();
-      return positionMap[normalizedPosition] || "bg-center"; // Default to 'bg-center' if no match
+      return positionMap[normalizedPosition] || "bg-center";
     },
     firstList() {
       return this.listItems.slice(0, this.splitAt);

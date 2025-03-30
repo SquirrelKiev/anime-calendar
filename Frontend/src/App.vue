@@ -8,7 +8,7 @@ import schedule from "./schedule.json";
     <h1 class="text-center font-black">
       <span class="text-5xl">Anime Releases</span>
       <br />
-      <span class="text-7xl text-cyan-400">Fall 2024</span>
+      <span class="text-7xl text-cyan-400">Spring 2025</span>
     </h1>
 
     <AnimeGrid />

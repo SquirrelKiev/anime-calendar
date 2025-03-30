@@ -1,184 +1,185 @@
 {
-  "RetrievedAt": "2024-09-30T10:43:54.3488326+01:00",
+  "RetrievedAt": "2025-03-30T16:01:54.3819029+01:00",
   "Source": "AniList",
   "Entries": {
-    "2024-09-04": {
-      "StartDate": "2024-09-04",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150930-b4A2tGh7DMa9.jpg",
-      "BannerPosition": "top center",
-      "Entries": ["Murai In Love"]
-    },
-    "2024-09-27": {
-      "StartDate": "2024-09-27",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-tRLdDE1BieXe.png",
-      "BannerPosition": "center center",
-      "Entries": ["Loner Life in Another World"]
-    },
-    "2024-09-28": {
-      "StartDate": "2024-09-28",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168500-wwpXjBBlXDpx.jpg",
-      "BannerPosition": "center center",
-      "Entries": ["Demon Lord, Retry! R"]
-    },
-    "2024-09-29": {
-      "StartDate": "2024-09-29",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111314-vZDqyfXNfsPY.png",
+    "2025-03-14": {
+      "StartDate": "2025-03-14",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181244-ICHU0FzIhEAY.jpg",
       "BannerPosition": "center center",
       "Entries": [
-        "Uzumaki",
-        "As a Reincarnated Aristocrat, I\u0027ll Use My Appraisal Skill to Rise in the World Season 2",
-        "Let This Grieving Soul Retire"
+        "KONOSUBA -God\u0027s Blessing on This Wonderful World! 3 -BONUS STAGE-"
       ]
     },
-    "2024-09-30": {
-      "StartDate": "2024-09-30",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169931-tPgDEKaHNkFr.jpg",
-      "BannerPosition": "top center",
-      "Entries": ["How I Attended an All-Guy\u0027s Mixer"]
-    },
-    "2024-10-01": {
-      "StartDate": "2024-10-01",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg",
-      "BannerPosition": "center center",
-      "Entries": [
-        "The Most Notorious \u0022Talker\u0022 Runs the World\u0027s Greatest Clan",
-        "I\u2019ll Become a Villainess Who Goes Down in History"
-      ]
-    },
-    "2024-10-02": {
-      "StartDate": "2024-10-02",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-Y0r8AGBeVlCi.jpg",
+    "2025-03-26": {
+      "StartDate": "2025-03-26",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png",
       "BannerPosition": "top center",
       "Entries": [
-        "Tying the Knot with an Amagami Sister",
-        "Re:ZERO -Starting Life in Another World- Season 3",
-        "Acro Trip"
+        "Transformers: Wild King"
       ]
     },
-    "2024-10-03": {
-      "StartDate": "2024-10-03",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170942-v2GO5YNO0Q5I.jpg",
+    "2025-03-30": {
+      "StartDate": "2025-03-30",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183133-SSeg5j1UrMDG.png",
       "BannerPosition": "center center",
       "Entries": [
-        "The Prince of Tennis II U-17 World Cup Semifinal",
-        "KamiErabi GOD.app Season 2",
-        "Kinokoinu",
-        "Negative Positive Angler",
-        "365 Days to the Wedding",
-        "Blue Box"
+        "The Unaware Atelier Meister"
       ]
     },
-    "2024-10-04": {
-      "StartDate": "2024-10-04",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171018-SpwPNAduszXl.jpg",
-      "BannerPosition": "center center",
-      "Entries": [
-        "DAN DA DAN",
-        "Mecha Ude: Mechanical Arms",
-        "Rurouni Kenshin -Kyoto Disturbance-",
-        "TRILLION GAME",
-        "Good Bye, Dragon Life",
-        "Duel Masters LOST:  Tsuioku no Suishou",
-        "Kabushiki Gaisha Magi Lumiere",
-        "Touhai: Ura Rate Mahjong Touhai Roku"
-      ]
-    },
-    "2024-10-05": {
-      "StartDate": "2024-10-05",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163146-HIz04v1Or7He.jpg",
-      "BannerPosition": "center center",
-      "SplitAt": 5,
-      "Entries": [
-        "Sword Art Online Alternative: Gun Gale Online II",
-        "BLUE LOCK Season 2",
-        "Is It Wrong To Try To Pick Up Girls in a Dungeon? V",
-        "The iDOLM@STER: Shiny Colors 2nd season",
-        "The Stories of Girls Who Couldn\u0027t Be Magicians",
-        "Ooi! Tonbo 2nd Season",
-        "Kagaku\u00D7Bouken Survival!",
-        "Thunderbolt Fantasy: Touriken Yuuki 4",
-        "BLEACH: Thousand-Year Blood War - The Conflict",
-        "Orb: On the Movements of the Earth"
-      ]
-    },
-    "2024-10-06": {
-      "StartDate": "2024-10-06",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172190-xtxZrIvVMauR.jpg",
-      "BannerPosition": "center center",
-      "Entries": [
-        "Blue Exorcist -Beyond the Snow Saga-",
-        "Ranma1/2 (2024)",
-        "You are Ms. Servant",
-        "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
-        "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2",
-        "Love Live! Superstar!! 3rd Season",
-        "TsumaSho",
-        "Puniru wa Kawaii Slime"
-      ]
-    },
-    "2024-10-07": {
-      "StartDate": "2024-10-07",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168537-pytXEirHtk3M.jpg",
-      "BannerPosition": "center center",
-      "Entries": [
-        "MF GHOST Season 2",
-        "Haigakura",
-        "Ron Kamonohashi\u2019s Forbidden Deductions Season 2",
-        "Yakuza Fianc\u00E9: Raise wa Tanin ga Ii"
-      ]
-    },
-    "2024-10-08": {
-      "StartDate": "2024-10-08",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg",
+    "2025-03-31": {
+      "StartDate": "2025-03-31",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143598-FCvAhQJLllSP.png",
       "BannerPosition": "top center",
       "Entries": [
-        "Natsume\u0027s Book of Friends Season 7",
-        "Seirei Gensouki: Spirit Chronicles Season 2"
+        "Sword of the Demon Hunter: Kijin Gentosho"
       ]
     },
-    "2024-10-09": {
-      "StartDate": "2024-10-09",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164299-sXyEH1zfho8Q.jpg",
-      "BannerPosition": "center center",
-      "Entries": ["The Do-Over Damsel Conquers The Dragon Emperor"]
+    "2025-04-01": {
+      "StartDate": "2025-04-01",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178701-OA537qbje5AU.jpg",
+      "BannerPosition": "top center",
+      "Entries": [
+        "Koisuru ONE PIECE",
+        "Once Upon a Witch\u0027s Death"
+      ]
     },
-    "2024-10-10": {
-      "StartDate": "2024-10-10",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171038-lSjQqiSk1mQC.jpg",
-      "BannerPosition": "center center",
-      "Entries": ["Tono to Inu", "Nina the Starry Bride"]
+    "2025-04-02": {
+      "StartDate": "2025-04-02",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179965-EwqzG3xSyxwc.jpg",
+      "BannerPosition": "top center",
+      "Entries": [
+        "Catch Me at the Ballpark!",
+        "Please Put Them On, Takamine-san",
+        "Your Forma"
+      ]
     },
-    "2024-10-11": {
-      "StartDate": "2024-10-11",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-gDNBp0B4VHsG.jpg",
-      "BannerPosition": "center center",
-      "Entries": ["Dragon Ball DAIMA"]
-    },
-    "2024-10-13": {
-      "StartDate": "2024-10-13",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
-      "BannerPosition": "center center",
-      "Entries": ["Demon Lord 2099", "Shangri-La Frontier Season 2"]
-    },
-    "2024-10-14": {
-      "StartDate": "2024-10-14",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154473-o55309dVGP3G.jpg",
+    "2025-04-03": {
+      "StartDate": "2025-04-03",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178680-9HupCDo647QU.jpg",
       "BannerPosition": "center center",
       "Entries": [
-        "Arifureta: From Commonplace to World\u0027s Strongest Season 3"
+        "WIND BREAKER Season 2",
+        "The Beginning After the End",
+        "MIRU: Watashi no Mirai",
+        "PetitCure: Precure Fairies",
+        "The Brilliant Healer\u0027s New Life in the Shadows",
+        "Rock is a Lady\u2019s Modesty"
       ]
     },
-    "2024-10-17": {
-      "StartDate": "2024-10-17",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166703-S326TyV68NG8.jpg",
-      "BannerPosition": "top center",
-      "Entries": ["GUNDAM: Requiem for Vengeance"]
-    },
-    "2024-10-19": {
-      "StartDate": "2024-10-19",
-      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg",
+    "2025-04-04": {
+      "StartDate": "2025-04-04",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153554-DXRLKyIptsB5.png",
       "BannerPosition": "center center",
-      "Entries": ["Ao no Miburo"]
+      "Entries": [
+        "Can a Boy-Girl Friendship Survive?",
+        "Bye Bye, Earth Season 2",
+        "Nazotoki wa Dinner no Ato de"
+      ]
+    },
+    "2025-04-05": {
+      "StartDate": "2025-04-05",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167336-IzjrGm2QpTie.jpg",
+      "BannerPosition": "center center",
+      "SplitAt": 7,
+      "Entries": [
+        "SHOSHIMIN: How to become Ordinary Season 2",
+        "Fire Force Season 3",
+        "Anne Shirley",
+        "Oshiri Tantei 9",
+        "Lazarus",
+        "YAIBA: Samurai Legend",
+        "I\u0027ve Been Killing Slimes For 300 Years And Maxed Out My Level Season 2",
+        "GUILTY GEAR STRIVE: DUAL RULERS",
+        "Kowloon Generic Romance",
+        "From Old Country Bumpkin to Master Swordsman",
+        "Black Butler: Emerald Witch Arc"
+      ]
+    },
+    "2025-04-06": {
+      "StartDate": "2025-04-06",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180367-sVzy7k5TMAgm.jpg",
+      "BannerPosition": "center center",
+      "Entries": [
+        "Classic\u2605Stars",
+        "I\u0027m the Evil Lord of an Intergalactic Empire!",
+        "Princess-Session Orchestra",
+        "Himitsu no AiPri: Ring-hen",
+        "Uma Musume: Cinderella Gray",
+        "WITCH WATCH",
+        "Maebashi Witches",
+        "The Gorilla God\u2019s Go-To Girl"
+      ]
+    },
+    "2025-04-07": {
+      "StartDate": "2025-04-07",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185736-Ick7OABzBWoi.jpg",
+      "BannerPosition": "center center",
+      "SplitAt": 3,
+      "Entries": [
+        "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.",
+        "ZatsuTabi -That\u0027s Journey-",
+        "Aharen-san wa Hakarenai Season 2",
+        "My Hero Academia: Vigilantes",
+        "Summer Pockets"
+      ]
+    },
+    "2025-04-08": {
+      "StartDate": "2025-04-08",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180675-YEwsxiMsnyvL.png",
+      "BannerPosition": "center center",
+      "Entries": [
+        "#COMPASS2.0 ANIMATION PROJECT",
+        "Apocalypse Hotel",
+        "The Shiunji Family Children"
+      ]
+    },
+    "2025-04-09": {
+      "StartDate": "2025-04-09",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185213-RKQN0qxKlqd6.jpg",
+      "BannerPosition": "top center",
+      "Entries": [
+        "Uchuujin MuuMuu",
+        "Mobile Suit Gundam GQuuuuuuX",
+        "HANA-Doll*: Reinterpretation of Flowering"
+      ]
+    },
+    "2025-04-10": {
+      "StartDate": "2025-04-10",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177120-xRucIg2WDr77.png",
+      "BannerPosition": "center center",
+      "Entries": [
+        "The Too-Perfect Saint: Tossed Aside by My Fianc\u00E9 and Sold to Another Kingdom",
+        "Moonrise",
+        "A Ninja and an Assassin Under One Roof"
+      ]
+    },
+    "2025-04-12": {
+      "StartDate": "2025-04-12",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176702-sD5AnHf8g4zi.jpg",
+      "BannerPosition": "center center",
+      "Entries": [
+        "Teogonia"
+      ]
+    },
+    "2025-04-13": {
+      "StartDate": "2025-04-13",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176246-ndH8bKh7cmzf.jpg",
+      "BannerPosition": "center center",
+      "Entries": [
+        "mono",
+        "Food for the Soul",
+        "Sentai Daishikkaku 2nd Season"
+      ]
+    },
+    "2025-04-16": {
+      "StartDate": "2025-04-16",
+      "BannerUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179706-NvVrmMxnDatB.jpg",
+      "BannerPosition": "center center",
+      "Entries": [
+        "Lycoris Recoil: Friends are thieves of time."
+      ]
     }
   }
 }
+
+

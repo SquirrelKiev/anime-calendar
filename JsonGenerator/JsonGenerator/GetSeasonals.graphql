@@ -4,8 +4,8 @@
       hasNextPage
     }
     media(
-      season: FALL,
-      seasonYear: 2024,
+      season: SPRING,
+      seasonYear: 2025,
       sort: START_DATE,
       type: ANIME,
       isAdult: false,
